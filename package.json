@@ -4,7 +4,7 @@
     "publisher": "Mubariz",
     "icon": "images/darker-still.png",
     "description": "A pastel-ish theme at the edge of darkness for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.67.0"
     },
